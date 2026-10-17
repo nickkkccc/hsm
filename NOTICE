@@ -1,0 +1,25 @@
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+==  Version 2.0, in this case for the Java Hierarchical State Machine  ==
+=========================================================================
+
+Java Hierarchical State Machine Port
+Copyright 2026 Nikolay Belonogov
+
+This product includes a Java port of the Hierarchical State Machine (HSM) 
+engine, heavily optimized for modern Java Virtual Machines (JVM).
+
+-------------------------------------------------------------------------
+Attribution Notice for the Original C++ Work:
+-------------------------------------------------------------------------
+
+The core architectural concepts and mathematical algorithms of this 
+state machine are based on the original C++ implementation by Miro Samek.
+
+State-Oriented-Programming (C++)
+Copyright 2000 Miro Samek. All rights reserved.
+Developed by Quantum Leaps (miro@quantum-leaps.com)
+Originally licensed under the Apache License, Version 2.0.
+
+For more information about the original framework, please visit 
+the Quantum Leaps official website: https://state-machine.com
