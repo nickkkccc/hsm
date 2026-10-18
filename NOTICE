@@ -4,7 +4,7 @@
 =========================================================================
 
 Java Hierarchical State Machine Port
-Copyright 2026 Nikolay Belonogov
+Copyright 2026 Nikolay Belonogov (nickkkccc)
 
 This product includes a Java port of the Hierarchical State Machine (HSM) 
 engine, heavily optimized for modern Java Virtual Machines (JVM).
